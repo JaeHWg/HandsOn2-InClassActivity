@@ -1,0 +1,1 @@
+We aim to make the stopwatch to count milliseconds instead of seconds and minutes. We decided to change the original code to increase the frequency to 1000Hz from 1Hz by changing the number of counters.
